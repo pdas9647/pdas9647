@@ -53,13 +53,14 @@ I'm Padmanabha das, a software developer. I live in Murshidabad, West Bengal. I'
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
 ---
+<img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 ### I'm a Working Professional, Developer and Learner!
 
 - 🌱 I’m currently working at Remix Labs as SDE-I
 - 👯 I’m looking to collaborate with other people for projects
 - 🥅 2023 Goals: Contribute to Open Source projects
-
+<br><br><br><br><br><br><br><br>
 ---
 
 ### My Skills:
