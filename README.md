@@ -6,15 +6,15 @@
 
 ### Glad to see you here!
 
-I'm Padmanabha das, a software developer. I live in Murshidabad, West Bengal. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Mobile applications & learning Spring Boot for server APIs Development.
+I'm Padmanabha Das, a software developer. I am from Murshidabad, West Bengal. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Mobile applications & learning Next.js for web development.
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
-- I’m currently working with [Flutter](https://flutter.dev/), [Dart](https://Dart.dev), [Android](https://www.android.com/), [Spring Boot & Spring MVC](https://spring.io/).
+- I’m currently working with [Flutter](https://flutter.dev/), [Dart](https://Dart.dev), [Next Js](https://nextjs.org/docs).
 - I love exploring new tech stack and building cool stuffs.
-- Most of my projects are available on [Github](https://github.com/pdas9647/).
+- Most of my projects are available on [Github](https://github.com/chayan-1906/).
 - How to reach me: padmanabhadas9647@gmail.com
-- Checkout [Resume](https://github.com/pdas9647/pdas9647/blob/main/Padmanabha_Das_Resume.pdf).
+- Checkout [Resume](https://github.com/chayan-1906/chayan-1906/blob/main/Padmanabha_Das_Resume.pdf).
 
 ###  Connect with me 
 
@@ -50,7 +50,7 @@ I'm Padmanabha das, a software developer. I live in Murshidabad, West Bengal. I'
 
 </p>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+*NOTE: Top languages do not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
 ---
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
@@ -65,10 +65,11 @@ I'm Padmanabha das, a software developer. I live in Murshidabad, West Bengal. I'
 
 ### My Skills:
   
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-47D1FC?style=flat-square&logo=Flutter&logoColor=white)](https://Flutter.dev/)
-[![Dart Badge](https://img.shields.io/badge/-Dart-01589C?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev/)
+[![Flutter Badge](https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white)](https://Flutter.dev/)
+[![Dart Badge](https://img.shields.io/badge/Dart-Language-blue?logo=dart)](https://dart.dev/)
+[![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs)
 [![GetX Badge](https://img.shields.io/badge/-GetX-8913F3?style=flat-square&logo=GetX&logoColor=white)](https://pub.dev/packages/get)
-[![Hive Badge](https://img.shields.io/badge/-Hive-1F6CD6?style=flat-square&logo=Hive&logoColor=white)](https://pub.dev/packages/hive)
+[![Hive Badge](https://img.shields.io/badge/-Hive-E31337?style=flat&logo=hive_blockchain&logoColor=white)](https://pub.dev/packages/hive)
 ---
 [![Android Badge](https://img.shields.io/badge/Android-3CDA84?&style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Java Badge](https://img.shields.io/badge/Java-3A75AF?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
@@ -76,6 +77,7 @@ I'm Padmanabha das, a software developer. I live in Murshidabad, West Bengal. I'
 [![Sqlite Badge](https://img.shields.io/badge/-SQLite-249AD4?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-015A84?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![Mongo Badge](https://img.shields.io/badge/-MongoDB-02C359?style=flat-square&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+[![Postgresql Badge](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![JDBC Badge](https://img.shields.io/badge/-JDBC-EA7869?style=flat-square&logo=JDBC&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
 [![H2 Badge](https://img.shields.io/badge/-H2-0000BA?style=flat-square&logo=H2DB&logoColor=white)](https://www.h2database.com/)
 ---
@@ -93,4 +95,4 @@ I'm Padmanabha das, a software developer. I live in Murshidabad, West Bengal. I'
 [![JSON Badge](https://img.shields.io/badge/-JSON-A3A3A3?style=flat-square&logo=JSON&logoColor=white)](https://www.json.org/)
 [![YAML Badge](https://img.shields.io/badge/-YAML-F7F7F7?style=flat-square&logo=YAML&logoColor=white)](https://yaml.org/)
 ---
-[![Automation Badge](https://img.shields.io/badge/-Selenium-00A61B?style=flat-square&logo=Selenium&logoColor=white)](https://www.selenium.dev/)
+[![ReactJs Badge](https://img.shields.io/badge/-react-EBECF0?style=flat-square&logo=react&logoColor=#3998B6)](https://www.react.org/)
